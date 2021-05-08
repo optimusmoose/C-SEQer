@@ -27,8 +27,8 @@ Execution:
     output from compilation
     .mgf file
 
-	Compile: 
-	  e.g. g++ SweetSEQer.cpp
+  Compile: 
+    e.g. g++ SweetSEQer.cpp
 	
   Execute the output file (default is 'a.out' unless specified with -o flag on compilation) with 8 parameters:
     epsilon      : maximum absolute error between predicted and actual peak (in m/z)
